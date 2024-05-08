@@ -1,6 +1,6 @@
 #ifndef GAME_H
 #define GAME_H
-
+//111
 #include <QMainWindow>
 #include <QWidget>
 #include <QPaintEvent>
